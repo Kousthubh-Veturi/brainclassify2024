@@ -24,3 +24,4 @@ yarn-error.log*
 
 /backend/mltrainingcode/venv/
 /backend/config/config.js
+artifacts
