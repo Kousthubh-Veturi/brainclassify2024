@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+scikit-learn
+matplotlib
+pickle
+glob
+copy
